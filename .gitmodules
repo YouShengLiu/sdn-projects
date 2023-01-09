@@ -1,0 +1,15 @@
+[submodule "project3"]
+	path = project3
+	url = https://github.com/Liuyushung/sdnfv-project3.git
+[submodule "project4"]
+	path = project4
+	url = https://github.com/Liuyushung/sdnfv-project4.git
+[submodule "project5"]
+	path = project5
+	url = https://github.com/Liuyushung/sdnfv-project5.git
+[submodule "project6"]
+	path = project6
+	url = https://github.com/Liuyushung/sdnfv-project6.git
+[submodule "final_project"]
+	path = final_project
+	url = https://github.com/Liuyushung/sdnfv-final-project.git
